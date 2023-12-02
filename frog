@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Flexbox Demo</title>
+        <link rel="stylesheet" href="frog.css">
+    </head>
+<body>
+    <div id="container">
+    
+        <h1>Dariga</h1> 
+    
+        <h2>GXFJU9</h2>
+    
+     <div class="row">
+        <div class="column" style="background-color:gray;">
+            <h3>10</h3>
+            
+        </div>
+        <div class="column" style="background-color:white;">
+           <h4>🐸</h4>
+        </div>
+        <div class="column" style="background-color:gray;">
+            <div id="timer"></div>
+
+             <textarea id="textarea" rows="14" cols="150" placeholder="1:00">
+            </textarea>
+        </div>
+    </div>
+    <table>
+        <tr>
+          <td class="grass">&#x1F343;</td>
+          <td class="grass">&#x1F343;</td>
+          <td class="start">&#x1F438;</td>
+          <td class="grass">&#x1F343;</td>
+          <td class="grass">&#x1F343;</td>
+        </tr>
+        <tr>
+          <td class="grass">&#x1F343;</td>
+          <td class="road"></td>
+          <td class="road">&#x1F697;</td>
+          <td class="road"></td>
+          <td class="grass">&#x1F343;</td>
+        </tr>
+        <tr>
+          <td class="road"></td>
+          <td class="road"></td>
+          <td class="road"></td>
+          <td class="road"></td>
+          <td class="road"></td>
+        </tr>
+        <tr>
+          <td class="duck">&#x1F986;</td>
+          <td class="duck">&#x1F986;</td>
+          <td class="road"></td>
+          <td class="duck">&#x1F986;</td>
+          <td class="duck">&#x1F986;</td>
+        </tr>
+        <tr>
+          <td class="road"></td>
+          <td class="road"></td>
+          <td class="road"></td>
+          <td class="road"></td>
+          <td class="road"></td>
+        </tr>
+        <tr>
+          <td class="grass">&#x1F343;</td>
+          <td class="grass">&#x1F343;</td>
+          <td class="goal">&#x1F438;</td>
+          <td class="grass">&#x1F343;</td>
+          <td class="grass">&#x1F343;</td>
+        </tr>
+      </table>
+    </div>
+  
+</body>
+</html>
